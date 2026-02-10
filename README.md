@@ -1,4 +1,5 @@
 # 💫 About Me:
+My Name is Aahan kumar
 🔭 I’m currently working on Realtime chatting application<br>👯 I’m looking to collaborate on building Startup<br>🤝 I’m looking for help with Development<br>🌱 I’m currently learning Agentic Ai<br>💬 Ask me about Anything<br>⚡ Fun fact i'm lazy
 
 
